@@ -1,5 +1,4 @@
 #EXTM3U
-______________________________________________________________________________________________________________________
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", *UNIVISION DEPORTES
 http://f.ok2.se:8000/victor1/victor123/423
@@ -127,9 +126,6 @@ http://ok2.se:8000/superman/12345/232
 #EXTINF:-1,BT SPORTS ESPN
 http://ok2.se:8000/superman/12345/233
 
-
-_________________________________________________________________________________________________________________________
-
 #EXTINF:-1 tvg-id="" tvg-logo="http://photocall.tv/images/multimedios.png" group-title="Entretenimiento", Multimedios Monterrey
 http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8?ref=http://www.multimedios.com
 
@@ -180,11 +176,6 @@ http://23.237.54.42/hls/CANAL11MX.m3u8
 
 #EXTINF:-1,UNIVISION
 http://23.237.32.130/hls/UNIVISION.m3u8
-
-
-
-__________________________________________________________________________________________________________
-
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", CINE SONY (ES)
 http://f.ok2.se:8000/victor1/victor123/435
@@ -300,10 +291,6 @@ http://ok2.se:8000/superman/12345/381
 #EXTINF:-1,THRILLER MAX HD
 http://ok2.se:8000/superman/12345/80332
 
-
-_______________________________________________________________________________________________________________
-
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", DISCOVERY HD ES
 http://f.ok2.se:8000/victor1/victor123/430
 
@@ -366,12 +353,6 @@ http://ok2.se:8000/superman/12345/324
 
 #EXTINF:-1,LIFE HD
 http://ok2.se:8000/superman/12345/325
-
-
- 
-
-___________________________________________________________________________________________________________________________
-
 
 #EXTINF:-1,FOX LIFE
 http://experiencetv.zapto.org:25468/expertvconx/expert02/10
@@ -447,8 +428,6 @@ http://23.237.54.42/hls/TVMASMX.m3u8
 
 #EXTINF:-1,WARNER
 http://23.237.54.42/hls/WARNERCHANNELMX.m3u8
-____________________________________________________________________________________________________________________
-
 
 #EXTINF:-1 tvg-id="La2.TV" tvg-logo="https://graph.facebook.com/la2detve/picture?width=200&height=200" group-title="Generalistas" tvg-name="La 2",La 2
 https://rtvelivestream.akamaized.net/la2_dvr.m3u8
@@ -501,8 +480,6 @@ http://f.ok2.se:8000/victor1/victor123/9165
 #EXTINF:-1,LA RED (CHILE)
 http://ok2.se:8000/superman/12345/15338
 
-_______________________________________________________
-
 #EXTINF:-1,MTV
 http://experiencetv.zapto.org:25468/expertvconx/expert02/79
 
@@ -538,8 +515,6 @@ https://tv.ngroup.be/nrj/ngrp:NRJHitsTV_all/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/DancestarTV/picture?width=200&height=200" group-title="Musicales" tvg-name="DanceStar TV",DanceStar TV EN
 https://vcndstv.teleosmedia.com/stream/dstv/dstv/playlist.m3u8
-__________________________________________________________________________________________________________________________
-
 
 #EXTINF:-1,PLAYBOY TV (NA)
 http://ok2.se:8000/superman/12345/300
@@ -579,9 +554,6 @@ http://f.ok2.se:8000/victor1/victor123/6573
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PENTHOUSE
 http://f.ok2.se:8000/victor1/victor123/71118
-
-
-________________________________________________________________________________________________________________________________________________________
 
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/clasicafmradio/picture?width=200&height=200" group-title="Radio_Musicales" tvg-name="Clásica FM Radio",Clásica FM Radio
 https://radio.garden/api/ara/content/listen/UG3FmZly/channel.mp3
